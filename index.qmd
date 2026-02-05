@@ -2,3 +2,10 @@
 title: "About Me"
 ---
 
+| | |
+| --- | --- |
+| ![](ME.JPEG) | Hi, my name is Ran Xin Jiang. I am currently a graduate student at Baruch College. | 
+
+## Let's Connect 
+* [LinkedIn](https://www.linkedin.com/in/ranxin-jiang/)
+* [GitHub](https://github.com/rxjiang12)
