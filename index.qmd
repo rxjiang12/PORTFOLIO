@@ -1,10 +1,15 @@
 ---
-title: "About Me"
+title: "Home"
 ---
 
 | | |
 | --- | --- |
-| ![](ME.JPEG) | Hi, my name is Ran Xin Jiang. I am currently a graduate student at Baruch College. | 
+| ![](ME.JPEG) | Hi, I’m Ran Xin Jiang (pronounced “ran-sing”). <br> <br> I’m a first-generation college student pursuing an M.S. in Information Systems (Data Analytics) at Baruch College’s Zicklin School of Business, and I recently graduated from the University at Buffalo with a B.S. in Information Technology & Management. 
+
+Through my academic and professional experiences, I have worked on projects involving data analysis, systems implementation, and technology-driven process improvement. My internship experience includes supporting the migration of 100+ LMS training courses at MJHS Health System, analyzing platform usage gaps at Houghton Mifflin Harcourt, and contributing to project planning initiatives at Blackstone LaunchPad.
+
+I am currently seeking full-time opportunities beginning in August 2026 where I can continue developing my experience in analytics, technology operations, and process improvement within organizational environments.
+
 
 ## Let's Connect 
 * [LinkedIn](https://www.linkedin.com/in/ranxin-jiang/)
