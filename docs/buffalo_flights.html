@@ -128,19 +128,172 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This was a team-based predictive analytics project analyzing historical flight data from the Buffalo Niagara International Airport to identify airline performance trends, delays, and operational efficiency.</p>
-<p>My individual contributions are outlined in the tab below.</p>
+<p>This was a team-based project where we used Python to analyze airline performance data from Buffalo Niagara International Airport in order to identify delay trends and potential operational inefficiencies. I supported the data preparation, model planning, and visualization development to help uncover patterns in airline scheduling performance.</p>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Notebook (Main)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">README</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">Individual Contributions</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Notebook (Main)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">ReadMe</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">My Contributions</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<iframe src="./Buffalo Flights Data Analysis Folder/fligh_data.ipynb" style="width:100%; height:1100px; border:0;"></iframe>
+<iframe src="Buffalo Flights Data Analysis Folder/fligh_data.html" style="width:100%; height:1100px; border:0;"></iframe>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-
+<p><strong>Analysis of Flight Data from Buffalo Niagara International Airport (BUF)</strong></p>
+<p><strong>Project Overview:</strong><br>
+This project analyzes one month of flight activity at Buffalo Niagara International Airport (BUF) to better understand where delays and cancellations most frequently occur. By combining 30 days of raw flight data stored in JSON format, this analysis focuses on airline performance, destination trends, and how operational factors such as gates and scheduling contribute to delays.</p>
+<p>The goal of this project was to organize and analyze flight operation data in order to identify patterns in departure and arrival delays, airline reliability, and potential areas for improving airport efficiency and the overall passenger experience.</p>
+<p><strong>Project Objective:</strong><br>
+The objective of this project was to analyze flight performance data from Buffalo Niagara International Airport (BUF) to identify patterns in departure and arrival delays across airlines, destinations, and operational factors.</p>
+<p><strong>Business Problem:</strong><br>
+Airports and airline operators must manage a wide range of operational challenges that can lead to delays or cancellations, such as:</p>
+<ul>
+<li>Scheduling Constraints<br>
+</li>
+<li>Gate Availability<br>
+</li>
+<li>Airline Performance<br>
+</li>
+<li>Weather Conditions<br>
+</li>
+<li>Flight Volume</li>
+</ul>
+<p>Without structured analysis, it is difficult to determine where delays are concentrated or which operational factors contribute most to service interruptions. This project aims to provide data-driven insights into delay patterns at BUF Airport to support improved operational planning and performance monitoring.</p>
+<p><strong>Dataset:</strong><br>
+The dataset used in this analysis consists of 30 JSON files representing daily flight activity throughout January 2025 at Buffalo Niagara International Airport. Each file contains detailed information regarding:</p>
+<ul>
+<li>Scheduled and actual departure times<br>
+</li>
+<li>Scheduled and actual arrival times<br>
+</li>
+<li>Airline carrier information<br>
+</li>
+<li>Destination airports<br>
+</li>
+<li>Aircraft information<br>
+</li>
+<li>Gate assignments<br>
+</li>
+<li>Delay and cancellation indicators</li>
+</ul>
+<p>These daily files were combined to create a unified dataset for analysis.</p>
+<p><strong>Tools &amp; Technologies:</strong></p>
+<ul>
+<li>Python<br>
+</li>
+<li>Pandas<br>
+</li>
+<li>NumPy<br>
+</li>
+<li>Matplotlib</li>
+</ul>
+<p><strong>Methodology:</strong><br>
+The project followed a structured analytics workflow including:</p>
+<p>1. Data Preparation</p>
+<ul>
+<li>Loaded and combined 30 individual JSON flight data files into a single dataset<br>
+</li>
+<li>Cleaned raw flight records by handling missing values and inconsistent formatting<br>
+</li>
+<li>Standardized variables for scheduled and actual departure and arrival times<br>
+</li>
+<li>Calculated delay metrics such as departure delay and arrival delay<br>
+</li>
+<li>Prepared the dataset for aggregation and trend analysis</li>
+</ul>
+<p>2. Model Planning</p>
+<ul>
+<li>Identified key performance indicators related to flight delays<br>
+</li>
+<li>Selected relevant analytical dimensions including airline carrier, destination airport, gate assignment, and day of operation<br>
+</li>
+<li>Planned aggregation strategies to evaluate average departure delay, median departure delay, average arrival delay, and cancellation frequency</li>
+</ul>
+<p>3. Model Building &amp; Analysis</p>
+<ul>
+<li>Performed exploratory data analysis using grouped aggregations<br>
+</li>
+<li>Analyzed delay trends by airline and destination<br>
+</li>
+<li>Evaluated operational bottlenecks across gates<br>
+</li>
+<li>Identified recurring delay patterns across specific dates and carriers<br>
+</li>
+<li>Generated summary statistics and visualizations to support findings</li>
+</ul>
+<p><strong>Key Insights</strong></p>
+<ul>
+<li>Certain airlines and destinations consistently experienced higher average delays<br>
+</li>
+<li>Specific gates were associated with increased departure delays<br>
+</li>
+<li>Delay patterns varied by date, suggesting operational or scheduling pressures<br>
+</li>
+<li>A small number of destinations accounted for a disproportionate share of arrival delays</li>
+</ul>
+<p>These findings highlight potential operational constraints and areas where targeted scheduling or resource allocation improvements may enhance performance at BUF Airport.</p>
+<p><strong>How to Run This Project</strong></p>
+<ol type="1">
+<li>Clone or download this repository to your local machine.<br>
+</li>
+<li>Ensure that Python is installed along with the required data analysis libraries, including Pandas, NumPy, and Matplotlib.<br>
+</li>
+<li>Open the flight data notebook file in Jupyter Notebook or another compatible Python notebook environment.<br>
+</li>
+<li>Run the cells sequentially to reproduce the data preparation, analysis, and visualization steps used in this project.</li>
+</ol>
+<p><strong>Limitations</strong></p>
+<ul>
+<li>Analysis is limited to one month of flight data<br>
+</li>
+<li>External factors such as weather were not incorporated<br>
+</li>
+<li>Dataset does not capture airline staffing or maintenance issues</li>
+</ul>
+<p><strong>Contributors</strong><br>
+This was a collaborative academic project completed by:</p>
+<ul>
+<li>Anna Bold<br>
+</li>
+<li>Kossi Gamli<br>
+</li>
+<li>Ran Xin Jiang<br>
+</li>
+<li>Christina Pratas</li>
+</ul>
 </div>
 <div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
-
+<p><strong>Ran Xin Jiang’s Individual Contributions</strong><br>
+<strong>Project Role:</strong><br>
+As part of this team-based project analyzing flight performance data from Buffalo Niagara International Airport (BUF), I contributed to multiple stages of the analytics lifecycle, including documentation, data preparation, model planning, and model development.</p>
+<p><strong>Executive Summary:</strong><br>
+I was responsible for developing the executive summary to communicate the purpose, methodology, and key findings of the analysis in a clear and concise format. This involved translating technical results from data analysis into insights that could be understood by non-technical stakeholders.</p>
+<p><strong>Data Preparation:</strong><br>
+I assisted with preparing the raw flight data for analysis using Python and the Pandas library. This included:</p>
+<ul>
+<li>Combining daily JSON files into a single dataset<br>
+</li>
+<li>Cleaning inconsistencies within the data<br>
+</li>
+<li>Handling missing or incomplete records<br>
+</li>
+<li>Formatting scheduled and actual departure and arrival times<br>
+</li>
+<li>Creating delay-related variables used for analysis</li>
+</ul>
+<p>These steps ensured that the dataset was structured and ready for aggregation and modeling.</p>
+<p><strong>Model Planning:</strong><br>
+I contributed to identifying key performance indicators relevant to flight delays and cancellations. This included helping determine which variables should be used for grouping and comparison, such as airline carrier, destination airport, gate assignment, and date of operation.</p>
+<p><strong>Model Building and Analysis:</strong><br>
+I supported the implementation of analytical models used to evaluate delay patterns across airlines and destinations. My work included:</p>
+<ul>
+<li>Writing Python code to generate visualizations of delay metrics<br>
+</li>
+<li>Creating grouped aggregations to compare airline and destination performance<br>
+</li>
+<li>Developing graphs to support the analysis of departure and arrival delay trends<br>
+</li>
+<li>Preparing analytical outputs used in the project’s findings</li>
+</ul>
+<p><strong>Summary:</strong><br>
+My contributions focused on supporting the preparation, analysis, and documentation of the dataset to enable meaningful insights into delay patterns and airline performance at BUF Airport.</p>
 </div>
 </div>
 </div>

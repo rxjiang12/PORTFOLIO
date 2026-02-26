@@ -2,28 +2,21 @@
 title: "Buffalo Flights Data Analysis Project"
 ---
 
-This was a team-based predictive analytics project analyzing historical flight data from the Buffalo Niagara International Airport to identify airline performance trends, delays, and operational efficiency.
-
-My individual contributions are outlined in the tab below.
+This was a team-based project where we used Python to analyze airline performance data from Buffalo Niagara International Airport in order to identify delay trends and potential operational inefficiencies. I supported the data preparation, model planning, and visualization development to help uncover patterns in airline scheduling performance.
 
 ::: {.panel-tabset}
 
 ## Notebook (Main)
-
 ```{=html}
-<iframe src="./Buffalo%20Flights%20Data%20Analysis%20Folder/fligh_data.ipynb" style="width:100%; height:1100px; border:0;"></iframe>
+<iframe src="Buffalo%20Flights%20Data%20Analysis%20Folder/fligh_data.html" style="width:100%; height:1100px; border:0;"></iframe>
 ```
 
-## README
+## ReadMe
 
-```{=markdown}
-`r paste(readLines("Buffalo Flights Data Analysis Folder/ReadMe.md"), collapse = "\n")`
-```
+{{< include "Buffalo Flights Data Analysis Folder/README.md" >}}
 
-## Individual Contributions
+## My Contributions
 
-```{=markdown}
-`r paste(readLines("Buffalo Flights Data Analysis Folder/Ran Xin Jiang’s Individual Contributions.md"), collapse = "\n")`
-```
+{{< include "Buffalo Flights Data Analysis Folder/RanXinJiang_Individual_Contributions.md" >}}
 
 :::
