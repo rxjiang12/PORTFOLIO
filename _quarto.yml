@@ -3,8 +3,8 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
-    - "projects/buffalo/fligh_data.ipynb"
-
+    - "Buffalo Flights Data Analysis Folder/fligh_data.ipynb"
+    
 website:
   title: "Home"
   description:
@@ -24,3 +24,7 @@ format:
 
 editor:
   mode: source
+  
+  
+resources:
+  - "Buffalo Flights Data Analysis Folder/fligh_data.html"
