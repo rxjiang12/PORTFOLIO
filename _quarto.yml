@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "projects/buffalo/fligh_data.ipynb"
 
 website:
   title: "Home"
