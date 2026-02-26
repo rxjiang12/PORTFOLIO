@@ -3,13 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Ran Xin Jiang"
+  title: "Home"
   description:
     Personal website to showcase past projects and skill sets.
   site-url: "https://rxjiang12.github.io/PORTFOLIO/"
   navbar:
     background: primary
     search: false
+    left:
+    - text: "Projects"
+      href: "./projects_tab.html"
     
 format:
   html:

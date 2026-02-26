@@ -1,0 +1,11 @@
+---
+title: "Featured Projects"
+---
+
+::: {.card}
+### Buffalo Flights Data Analysis Project
+Python + Jupyter analysis of Buffalo airport flight data (JSON) with EDA and visualizations.
+
+<a href="./buffalo_flights.html" target="_blank"> Open Project →</a>
+:::
+
