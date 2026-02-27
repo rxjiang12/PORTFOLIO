@@ -23,7 +23,7 @@ website:
 
 format:
   html:
-    theme: morph
+    theme: cosmo
     toc: false
 
 editor:
