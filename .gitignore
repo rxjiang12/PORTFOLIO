@@ -9,6 +9,8 @@ data/**
 **/*xlsx*
 **/*zip
 **/*pdf
+!RanXinJiangResume.pdf
+!docs/RanXinJiangResume.pdf
 **/*json
 **/*rds
 .DS_Store
