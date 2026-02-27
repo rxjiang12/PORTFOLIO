@@ -21,6 +21,8 @@ website:
         href: "./projects_tab.html"
       - text: "Resume"
         href: "./resume.html"
+      - text: "Contact"
+        href: "./contact.html"
 
 format:
   html:

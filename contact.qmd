@@ -1,0 +1,47 @@
+---
+title: "Contact"
+---
+
+```{=html}
+<div style="max-width:900px; margin:0 auto;">
+
+  <div style="margin-bottom:22px; font-size:1.15rem; line-height:1.7;">
+    I am currently seeking full-time opportunities beginning in <strong>August 2026</strong>, and I would welcome the opportunity to connect regarding roles in <strong>analytics</strong>, <strong>operations</strong>, <strong>technology implementation</strong>, or <strong>process improvement</strong>.
+  </div>
+
+  <div style="display:grid; grid-template-columns:1fr; gap:18px;">
+
+    <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; font-size:1.15rem; line-height:1.7;">
+      <div style="font-weight:700; margin-bottom:8px;">
+        Location &amp; Work Preferences
+      </div>
+      Based in <strong>New York City</strong>. Open to <strong>remote</strong>, <strong>hybrid</strong>, or <strong>in-person</strong> opportunities, as well as <strong>relocation</strong>.
+    </div>
+
+    <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; font-size:1.15rem; line-height:1.7;">
+      <div style="font-weight:700; margin-bottom:8px;">
+        Work Authorization
+      </div>
+      Authorized to work in the United States and do not require sponsorship now or in the future.
+    </div>
+
+    <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; font-size:1.15rem; line-height:1.7;">
+      <div style="font-weight:700; margin-bottom:10px;">
+        Let’s Connect
+      </div>
+
+      <div style="display:grid; gap:10px;">
+        <div>📧 <strong>Email:</strong> <a href="mailto:ranxinj@gmail.com">ranxinj@gmail.com</a></div>
+        <div>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ranxinjiang" target="_blank" rel="noopener">linkedin.com/in/ranxinjiang</a></div>
+        <div>💻 <strong>GitHub:</strong> <a href="https://github.com/rxjiang12" target="_blank" rel="noopener">github.com/rxjiang12</a></div>
+      </div>
+
+      <hr style="margin:18px 0; border:none; border-top:1px solid #eee;">
+
+      Please feel free to reach out if you’d like to learn more about my project work or discuss potential opportunities!
+    </div>
+
+  </div>
+
+</div>
+```
