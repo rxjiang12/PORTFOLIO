@@ -4,19 +4,24 @@ project:
   render:
     - "*.qmd"
     - "Buffalo Flights Data Analysis Folder/fligh_data.ipynb"
-    
+
+resources:
+  - "Buffalo Flights Data Analysis Folder/fligh_data.html"
+  - "RanXinJiangResume.pdf"
+
 website:
   title: "Home"
-  description:
-    Personal website to showcase past projects and skill sets.
+  description: "Personal website to showcase past projects and skill sets."
   site-url: "https://rxjiang12.github.io/PORTFOLIO/"
   navbar:
     background: primary
     search: false
     left:
-    - text: "Projects"
-      href: "./projects_tab.html"
-    
+      - text: "Projects"
+        href: "./projects_tab.html"
+      - text: "Resume"
+        href: "./resume.html"
+
 format:
   html:
     theme: minty
@@ -24,7 +29,3 @@ format:
 
 editor:
   mode: source
-  
-  
-resources:
-  - "Buffalo Flights Data Analysis Folder/fligh_data.html"

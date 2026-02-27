@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://rxjiang12.github.io/PORTFOLIO/Buffalo Flights Data Analysis Folder/fligh_data.html</loc>
+    <lastmod>2026-02-26T20:10:58.308Z</lastmod>
+  </url>
+  <url>
     <loc>https://rxjiang12.github.io/PORTFOLIO/projects_tab.html</loc>
     <lastmod>2026-02-26T22:40:32.703Z</lastmod>
   </url>
@@ -11,5 +15,9 @@
   <url>
     <loc>https://rxjiang12.github.io/PORTFOLIO/index.html</loc>
     <lastmod>2026-02-26T23:24:59.422Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rxjiang12.github.io/PORTFOLIO/resume.html</loc>
+    <lastmod>2026-02-27T00:03:42.095Z</lastmod>
   </url>
 </urlset>
