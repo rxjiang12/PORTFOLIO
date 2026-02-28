@@ -3,8 +3,15 @@ title: "Featured Projects"
 ---
 
 ::: {.card}
-### Buffalo Flights Data Analysis Project
-In this project, we used Python to analyze airline performance data from Buffalo Niagara International Airport to identify delay trends and potential operational inefficiencies through predictive analytics techniques.
+## Buffalo Flights Data Analysis Project
+Conducted an end-to-end analysis of commercial flight operations departing from Buffalo Niagara International Airport to identify patterns in delays and operational performance. The project involved data cleaning, exploratory data analysis (EDA), feature engineering, and model development to evaluate key factors influencing flight delays. Results were communicated through visualizations and structured reporting to highlight actionable insights.
+
+#### **Key Skills** {.mt-1}
+- Data Cleaning & Transformation (Python – Pandas, NumPy)
+- Exploratory Data Analysis & Pattern Identification
+- Feature Engineering
+- Statistical Trend Analysis
+- Data Visualization for Insight Communication
 
 <a href="./buffalo_flights.html" target="_blank"> Open Project →</a>
 :::
