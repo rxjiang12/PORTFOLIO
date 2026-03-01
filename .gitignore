@@ -11,6 +11,9 @@ data/**
 **/*pdf
 !RanXinJiangResume.pdf
 !docs/RanXinJiangResume.pdf
+# Allow PDFs for R2E project assets
+!r2e_tenant_management_database/
+!r2e_tenant_management_database/*.pdf
 **/*json
 **/*rds
 .DS_Store
