@@ -2,17 +2,65 @@
 title: "Featured Projects"
 ---
 
-::: {.card}
-## Buffalo Flights Data Analysis Project
-Conducted an end-to-end analysis of commercial flight operations departing from Buffalo Niagara International Airport to identify patterns in delays and operational performance. The project involved data cleaning, exploratory data analysis (EDA), feature engineering, and model development to evaluate key factors influencing flight delays. Results were communicated through visualizations and structured reporting to highlight actionable insights.
+```{=html}
+<div style="max-width:900px; margin:0 auto;">
 
-#### **Key Skills** {.mt-1}
-- Data Cleaning & Transformation (Python – Pandas, NumPy)
-- Exploratory Data Analysis & Pattern Identification
-- Feature Engineering
-- Statistical Trend Analysis
-- Data Visualization for Insight Communication
+  <div style="display:grid; grid-template-columns:1fr; gap:18px;">
 
-<a href="./buffalo_flights.html" target="_blank"> Open Project →</a>
-:::
+    <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; line-height:1.7;">
+      <div style="font-weight:800; font-size:1.55rem; margin-bottom:10px;">
+        Buffalo Flight Performance &amp; Delay Analysis
+      </div>
 
+      <div style="font-size:1.05rem; margin-bottom:14px;">
+        Conducted an end-to-end analysis of commercial flight operations departing from Buffalo Niagara International Airport to identify patterns in delays and operational performance. The project involved data cleaning, exploratory data analysis (EDA), feature engineering, and model development to evaluate key factors influencing flight delays. Results were communicated through visualizations and structured reporting to highlight actionable insights.
+      </div>
+
+      <div style="font-weight:700; font-size:1.05rem; margin-bottom:8px;">
+        Key Skills
+      </div>
+
+      <ul style="margin-top:0; margin-bottom:14px; padding-left:20px; font-size:1.05rem;">
+        <li>Data Cleaning &amp; Transformation (Python – Pandas, NumPy)</li>
+        <li>Exploratory Data Analysis &amp; Pattern Identification</li>
+        <li>Feature Engineering</li>
+        <li>Statistical Trend Analysis</li>
+        <li>Data Visualization for Insight Communication</li>
+      </ul>
+
+      <a href="./buffalo_flights.html" target="_blank" rel="noopener"
+         style="display:inline-block; padding:8px 12px; border:1px solid #0d6efd; border-radius:6px; text-decoration:none; font-size:0.95rem;">
+        Open Project →
+      </a>
+    </div>
+
+    <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; line-height:1.7;">
+      <div style="font-weight:800; font-size:1.55rem; margin-bottom:10px;">
+        R2E Tenant Management Database
+      </div>
+
+      <div style="font-size:1.05rem; margin-bottom:14px;">
+        Designed and implemented a relational tenant management system in Microsoft Access to replace spreadsheet-based property tracking. The database centralizes tenant records, service request workflows, and employee assignments into a structured system, improving data organization and operational oversight.
+      </div>
+
+      <div style="font-weight:700; font-size:1.05rem; margin-bottom:8px;">
+        Key Skills
+      </div>
+
+      <ul style="margin-top:0; margin-bottom:14px; padding-left:20px; font-size:1.05rem;">
+        <li>Database Design</li>
+        <li>Entity Relationship Modeling</li>
+        <li>Microsoft Access</li>
+        <li>Business Process Analysis</li>
+        <li>Reporting &amp; Queries</li>
+      </ul>
+
+      <a href="./r2e_tenant_management_database.html" target="_blank" rel="noopener"
+         style="display:inline-block; padding:8px 12px; border:1px solid #0d6efd; border-radius:6px; text-decoration:none; font-size:0.95rem;">
+        Open Project →
+      </a>
+    </div>
+
+  </div>
+</div>
+```

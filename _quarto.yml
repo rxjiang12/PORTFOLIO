@@ -32,3 +32,4 @@ editor:
 resources:
   - "Buffalo Flights Data Analysis Folder/fligh_data.html"
   - "RanXinJiangResume.pdf"
+  - r2e_tenant_management_database/*

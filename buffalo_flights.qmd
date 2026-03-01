@@ -1,5 +1,5 @@
 ---
-title: "Buffalo Flights Data Analysis Project"
+title: "Buffalo Flight Performance & Delay Analysis "
 ---
 
 This team-based academic project analyzed commercial flight performance data from Buffalo Niagara International Airport to identify delay patterns and potential operational inefficiencies. Using Python, we conducted structured data preparation, exploratory analysis, and model planning to evaluate key factors influencing scheduling performance. I contributed to data transformation, analytical planning, and visualization development to support insight generation and reporting.
