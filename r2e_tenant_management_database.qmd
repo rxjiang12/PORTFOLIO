@@ -1,0 +1,36 @@
+---
+title: "R2E, LLC. Tenant Management Database"
+---
+
+Developed as part of a graduate-level Systems Analysis & Design course, this project involved designing and implementing a relational tenant management database for a simulated property management company. The system replaces spreadsheet-based tracking with a structured Microsoft Access database that manages properties, tenants, service requests, and employees through centralized data entry, reporting, and query-based monitoring. The objective was to improve operational organization, strengthen data integrity, and provide clearer visibility into maintenance workflows and tenant management activities.
+
+::: {.panel-tabset}
+
+## Executive Overview
+
+~~~{=html}
+<iframe
+  src="r2e_tenant_management_database/Executive_Overview.pdf"
+  style="width:100%; height:1100px; border:0;">
+</iframe>
+~~~
+
+## Entity Relationship Diagram
+
+~~~{=html}
+<iframe
+  src="r2e_tenant_management_database/Entity_Relationship_Diagram.pdf"
+  style="width:100%; height:1000px; border:0;">
+</iframe>
+~~~
+
+## System Features & Workflows
+
+~~~{=html}
+<iframe
+  src="r2e_tenant_management_database/System_Features_&_Workflows.pdf"
+  style="width:100%; height:1100px; border:0;">
+</iframe>
+~~~
+
+:::
