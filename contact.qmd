@@ -32,7 +32,7 @@ title: "Let's Connect!"
 
       <div style="display:grid; gap:10px;">
         <div>📧 <strong>Email:</strong> <a href="mailto:ranxinj@gmail.com">ranxinj@gmail.com</a></div>
-        <div>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ranxinjiang" target="_blank" rel="noopener">linkedin.com/in/ranxinjiang</a></div>
+        <div>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ranxin-jiang/" target="_blank" rel="noopener">linkedin.com/in/ranxin-jiang/</a></div>
         <div>💻 <strong>GitHub:</strong> <a href="https://github.com/rxjiang12" target="_blank" rel="noopener">github.com/rxjiang12</a></div>
       </div>
 
