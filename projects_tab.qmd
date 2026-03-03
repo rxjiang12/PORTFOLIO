@@ -7,6 +7,39 @@ title: "Featured Projects"
 
   <div style="display:grid; grid-template-columns:1fr; gap:18px;">
 
+    <!-- NYC Restaurant Warehouse (In Progress) -->
+    <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; line-height:1.7;">
+      <div style="font-weight:800; font-size:1.55rem; margin-bottom:10px;">
+        NYC Restaurant Complaint &amp; Inspection Analytics Warehouse
+      </div>
+
+      <div style="font-size:1.05rem; margin-bottom:14px;">
+        Designed a cloud-based dimensional data warehouse integrating NYC 311 restaurant complaints with official health inspection results. Built a Kimball star schema model and initiated ELT pipelines in BigQuery to transform raw data into structured fact and dimension tables.
+      </div>
+
+      <div style="font-size:1.05rem; margin-bottom:14px;">
+        Currently developing cross-source KPIs including Complaint Adjusted Inspection Risk, Severity Impact, Cuisine Risk Index, and Inspection Targeting Effectiveness to evaluate whether customer-reported complaints align with regulatory inspection outcomes across boroughs, cuisines, and seasons. A stakeholder-focused BI dashboard is in progress to present actionable insights for public-sector decision makers.
+      </div>
+
+      <div style="font-weight:700; font-size:1.05rem; margin-bottom:8px;">
+        Key Skills
+      </div>
+
+      <ul style="margin-top:0; margin-bottom:14px; padding-left:20px; font-size:1.05rem;">
+        <li>Dimensional Modeling (Kimball Methodology)</li>
+        <li>Star Schema &amp; Data Mart Design</li>
+        <li>ELT Pipeline Development (BigQuery)</li>
+        <li>Cross-Source Data Integration</li>
+        <li>KPI &amp; Risk Metric Development</li>
+      </ul>
+
+      <span
+        style="display:inline-block; padding:8px 12px; border:1px solid #0d6efd; border-radius:6px; font-size:0.95rem; color:#0d6efd;">
+        In Progress – Full Dashboard Coming May 2026
+      </span>
+    </div>
+
+    <!-- Buffalo Flights -->
     <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; line-height:1.7;">
       <div style="font-weight:800; font-size:1.55rem; margin-bottom:10px;">
         Buffalo Flight Performance &amp; Delay Analysis
@@ -34,6 +67,7 @@ title: "Featured Projects"
       </a>
     </div>
 
+    <!-- R2E Access -->
     <div style="border:1px solid #e6e6e6; border-radius:10px; padding:20px; background:#fff; line-height:1.7;">
       <div style="font-weight:800; font-size:1.55rem; margin-bottom:10px;">
         R2E Tenant Management Database
