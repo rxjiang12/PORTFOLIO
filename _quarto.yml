@@ -5,13 +5,13 @@ project:
     - "*.qmd"
 
 website:
-  title: ""
+  title: "Ran Xin Jiang"
   description: Personal website to showcase past projects and skill sets.
   site-url: "https://rxjiang12.github.io/PORTFOLIO/"
   navbar:
     background: primary
     search: false
-    left:
+    right:
       - text: "Home"
         href: "./index.html"
       - text: "Projects"
