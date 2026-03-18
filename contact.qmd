@@ -6,7 +6,7 @@ title: "Let's Connect!"
 <div style="max-width:900px; margin:0 auto;">
 
   <div style="margin-bottom:22px; font-size:1.15rem; line-height:1.7;">
-    I am currently seeking full-time opportunities beginning in <strong>August 2026</strong>, and I would welcome the opportunity to connect regarding roles in <strong>analytics</strong>, <strong>operations</strong>, <strong>technology implementation</strong>, or <strong>process improvement</strong>.
+    I am currently seeking full-time opportunities beginning in <strong>June 2026</strong>, and I would welcome the opportunity to connect regarding roles in <strong>analytics</strong>, <strong>operations</strong>, <strong>technology implementation</strong>, or <strong>process improvement</strong>.
   </div>
 
   <div style="display:grid; grid-template-columns:1fr; gap:18px;">
