@@ -4,10 +4,10 @@ title: "Resume"
 
 You can view or download my most recent resume below.
 
-📄**[Download Resume (PDF)](RanXinJiangResume.pdf)**
+📄**[Download Resume (PDF)](RanXin_Jiang_Resume.pdf)**
 
 ```{=html}
 <iframe 
-  src="RanXinJiangResume.pdf" 
+  src="RanXin_Jiang_Resume.pdf" 
   style="width:100%; height:1100px; border:1px solid #ddd; border-radius:6px;">
 </iframe>
