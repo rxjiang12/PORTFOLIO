@@ -21,7 +21,7 @@ title: "About Me"
     <div style="margin-top:14px;">
       <div style="font-weight:700;">M.S. Information Systems (Data Analytics)</div>
       <div>Baruch College, Zicklin School of Business</div>
-      <div>Expected Graduation: August 2026</div>
+      <div>Expected Graduation: December 2026</div>
     </div>
 
     <div style="margin-top:12px;">
